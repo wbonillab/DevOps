@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: wbonillab/mi-app:37a45676800c20006e77ed5f1696ec1485a3b967
+        image: wbonillab/mi-app:01f9802421be9d482d19611e23c0410b2c40e45a
         ports:
         - containerPort: 80
